@@ -116,7 +116,7 @@ http://kmst-live.mst.edu/kmst.mp3
 #EXTINF:0,WMEH MPBN Maine Public Broadcasting Radio Stream (ME-US) [llnwd.net]
 http://pubint.ic.llnwd.net/stream/pubint_mbpc
 
-#EXTINF:0,[Music] WFMU Main Stream [mp3|128k|stereo] 
-https://stream0.wfmu.org/freeform-128k.mp3
+#EXTINF:0,[Music] WFMU Main Stream [aac|128k|stereo] 
+http://stream0.wfmu.org/freeform-high.aac
 
 # --- End 24 Hour Live Streaming ---
