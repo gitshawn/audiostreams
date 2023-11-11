@@ -23,6 +23,9 @@ http://video.news.sky.com/snr/news/snrnews.mp3
 #EXTINF:0,NPR - WLRN 91.3 Miami, Florida, US [aac|64k|stereo]
 http://stream.wlrn.mobi/WLRNFMAAC64
 
+#EXTINF:0,NPR KUAF 91.3 Fayetville, Arkansas, US [mpg|96k|stereo] 
+http://war.streamguys1.com:7030/kuaf1.m3u
+
 #EXTINF:0,NPR 24 Hour Program Stream
 https://npr-ice.streamguys1.com/live.mp3
 
@@ -118,8 +121,5 @@ http://pubint.ic.llnwd.net/stream/pubint_mbpc
 
 #EXTINF:0,[Music] WFMU Main Stream [aac|128k|stereo] 
 http://stream0.wfmu.org/freeform-high.aac
-
-#EXTINF:0,[Music] KUAF Main Stream [mpg|96k|stereo] 
-http://war.streamguys1.com:7030/kuaf1.m3u
 
 # --- End 24 Hour Live Streaming ---
