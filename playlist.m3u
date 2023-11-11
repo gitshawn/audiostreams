@@ -119,4 +119,7 @@ http://pubint.ic.llnwd.net/stream/pubint_mbpc
 #EXTINF:0,[Music] WFMU Main Stream [aac|128k|stereo] 
 http://stream0.wfmu.org/freeform-high.aac
 
+#EXTINF:0,[Music] KUAF Main Stream [mpg|96k|stereo] 
+http://war.streamguys1.com:7030/kuaf1.m3u
+
 # --- End 24 Hour Live Streaming ---
