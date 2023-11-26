@@ -20,11 +20,11 @@ http://video.news.sky.com/snr/news/snrnews.mp3
 # These are news/talk and public radio streams active 24/7
 #EXTINF:0,--- 24 Hour Live Streams ---
 
-#EXTINF:0,NPR - WLRN 91.3 Miami, Florida, US [aac|64k|stereo]
+#EXTINF:0,NPR WLRN 91.3 Miami, Florida, US [aac|64k|stereo]
 # Old and broken http://stream.wlrn.mobi/WLRNFMAAC64
 https://prod-3-80-94-6.amperwave.net/wlrnpublicmedia-wlrnfmaac-imc1
 
-#EXTINF:0,NPR - KUAF 91.3 Fayetville, Arkansas, US [mpg|96k|stereo] 
+#EXTINF:0,NPR KUAF 91.3 Fayetville, Arkansas, US [mpg|96k|stereo] 
 http://war.streamguys1.com:7030/kuaf1.m3u
 
 #EXTINF:0,NPR 24 Hour Program Stream
@@ -105,7 +105,7 @@ http://pubint.ic.llnwd.net/stream/pubint_kanw
 http://audio.wbhm.org:8000/live.mp3
 
 # KQED belongs to the NPR family and offers news from California and the world. http://www.kqed.org/radio/listen/
-#EXTINF:0,KQED Public Radio (San Francisco CA-US) [kqed.org]
+#EXTINF:0,NPR KQED Public Radio (San Francisco CA-US) [kqed.org]
 http://streams.kqed.org/kqedradio
 
 # http://wglt.org/#stream/0 
@@ -124,3 +124,6 @@ http://pubint.ic.llnwd.net/stream/pubint_mbpc
 http://stream0.wfmu.org/freeform-high.aac
 
 # --- End 24 Hour Live Streaming ---
+
+#EXTINF:0,Podcast
+https://feeds.npr.org/510318/podcast.xml
