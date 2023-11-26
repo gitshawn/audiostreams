@@ -20,14 +20,14 @@ http://video.news.sky.com/snr/news/snrnews.mp3
 # These are news/talk and public radio streams active 24/7
 #EXTINF:0,--- 24 Hour Live Streams ---
 
-#EXTINF:0,NPR WLRN 91.3 Miami, Florida, US [aac|64k|stereo]
+#EXTINF:0,[NPR] WLRN 91.3 Miami, Florida, US [aac|64k|stereo]
 # Old and broken http://stream.wlrn.mobi/WLRNFMAAC64
 https://prod-3-80-94-6.amperwave.net/wlrnpublicmedia-wlrnfmaac-imc1
 
-#EXTINF:0,NPR KUAF 91.3 Fayetville, Arkansas, US [mpg|96k|stereo] 
+#EXTINF:0,[NPR] KUAF 91.3 Fayetville, Arkansas, US [mpg|96k|stereo] 
 http://war.streamguys1.com:7030/kuaf1.m3u
 
-#EXTINF:0,NPR 24 Hour Program Stream
+#EXTINF:0,[NPR] 24 Hour Program Stream
 https://npr-ice.streamguys1.com/live.mp3
 
 #EXTINF:0,Al Jazeera English
@@ -35,13 +35,13 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/160a
 
 # http://pd.npr.org/anon.npr-mp3/npr/fa/2016/07/20160721_fa_01.mp3?orgId=427869011&topicId=1070&d=921&p=13&story=486888790&t=progseg&e=486753126&seg=1&siteplayer=true
 
-#EXTINF:0,NWPR News Northwest Public Radio [96|Stereo|wsu.edu]
+#EXTINF:0,[NWPR] News Northwest Public Radio [96|Stereo|wsu.edu]
 http://ett-ts02.ett.wsu.edu:8000/NWPRNEWS
 
-#EXTINF:0,NWPR Classical Northwest Public Radio [96|Stereo|wsu.edu]
+#EXTINF:0,[NWPR] Classical Northwest Public Radio [96|Stereo|wsu.edu]
 http://ett-ts02.ett.wsu.edu:8000/NWPRCLASSICAL
 
-#EXTINF:0,NWPR KJEM Jazz Northwest Public Radio [80|Stereo|wsu.edu]
+#EXTINF:0,[NWPR] KJEM Jazz Northwest Public Radio [80|Stereo|wsu.edu]
 http://ett-ts02.ett.wsu.edu:8000/NWPRKJEM
 
 # Voice of America - http://www.voanews.com/audio/tube/60.html
@@ -94,15 +94,15 @@ http://audio2.video.ria.ru:80/voiceeng
 http://pubint.ic.llnwd.net/stream/pubint_kunm
 
 # KANW - New Mexico Public Radio 89.1 FM http://www.kanw.com/
-#EXTINF:0,KANW 89.1 FM New Mexico Public Radio (Albuquerque NM-US) [llnwd.net]
+#EXTINF:0,[NPR] KANW 89.1 FM New Mexico Public Radio (Albuquerque NM-US) [llnwd.net]
 http://pubint.ic.llnwd.net/stream/pubint_kanw
 
 # WBHM (90.3 FM), APM, NPR, PRI, University of Alabama, http://www.wbhm.org/, https://www.wbhm.org/listen/
-#EXTINF:0,WBHM (90.3 FM) University of Alabama (Birmingham AL-US) [96|Stereo|wbhm.org]
+#EXTINF:0,[NPR] WBHM (90.3 FM) University of Alabama (Birmingham AL-US) [96|Stereo|wbhm.org]
 http://audio.wbhm.org:8000/live.mp3
 
 # KQED belongs to the NPR family and offers news from California and the world. http://www.kqed.org/radio/listen/
-#EXTINF:0,NPR KQED Public Radio (San Francisco CA-US) [kqed.org]
+#EXTINF:0,[NPR] KQED Public Radio (San Francisco CA-US) [kqed.org]
 http://streams.kqed.org/kqedradio
 
 # http://wglt.org/#stream/0 
@@ -114,7 +114,7 @@ http://wgltradio.ilstu.edu:8000/wgltmain.mp3
 http://kmst-live.mst.edu/kmst.mp3
 
 # http://www.mpbn.net/#stream/0
-#EXTINF:0,WMEH MPBN Maine Public Broadcasting Radio Stream (ME-US) [llnwd.net]
+#EXTINF:0,[NPR] WMEH MPBN Maine Public Broadcasting Radio Stream (ME-US) [llnwd.net]
 http://pubint.ic.llnwd.net/stream/pubint_mbpc
 
 #EXTINF:0,[Music] WFMU Main Stream [aac|128k|stereo] 
@@ -137,3 +137,12 @@ http://feeds.revealradio.org/revealpodcast
 
 #EXTINF:0,[Podcast] Live Wire
 https://feed.livewireradio.org/
+
+#EXTINF:0,[Podcast] Lifeline
+https://feeds.megaphone.fm/lifeline
+
+#EXTINF:0,[Podcast] Radiolab
+http://feeds.wnyc.org/radiolab
+
+#EXTINF:0,[Podcast] Criminal
+https://feeds.megaphone.fm/VMP7924981569
