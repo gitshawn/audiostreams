@@ -1,9 +1,9 @@
 #EXTM3U
-# filename: radio.m3u
-# -------------------
+
 # My Streaming Radio Playlist
 
 # --- Hourly News Updates ---
+
 # These are hosted static MP3s that change periodically; they are not streams.
 #EXTINF:0,--- Hourly News Updates ---
 #vlc://pause:0
@@ -14,9 +14,9 @@ http://public.npr.org/anon.npr-mp3/npr/news/newscast.mp3
 #EXTINF:0,[Hourly] SKY NEWS Hourly News Brief (London) [128|Mono|sky.com]
 http://video.news.sky.com/snr/news/snrnews.mp3
 
-# --- End Hourly News Updates ---
 
 # --- 24 Hour Live Streams ---
+
 # These are news/talk and public radio streams active 24/7
 #EXTINF:0,--- 24 Hour Live Streams ---
 
@@ -36,15 +36,12 @@ http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/160a
 # http://pd.npr.org/anon.npr-mp3/npr/fa/2016/07/20160721_fa_01.mp3?orgId=427869011&topicId=1070&d=921&p=13&story=486888790&t=progseg&e=486753126&seg=1&siteplayer=true
 
 #EXTINF:0,NWPR News Northwest Public Radio [96|Stereo|wsu.edu]
-# http://134.121.234.129:8000/NWPRNEWS
 http://ett-ts02.ett.wsu.edu:8000/NWPRNEWS
 
 #EXTINF:0,NWPR Classical Northwest Public Radio [96|Stereo|wsu.edu]
-# http://134.121.234.129:8000/NWPRCLASSICAL
 http://ett-ts02.ett.wsu.edu:8000/NWPRCLASSICAL
 
 #EXTINF:0,NWPR KJEM Jazz Northwest Public Radio [80|Stereo|wsu.edu]
-# http://134.121.234.129:8000/NWPRKJEM
 http://ett-ts02.ett.wsu.edu:8000/NWPRKJEM
 
 # Voice of America - http://www.voanews.com/audio/tube/60.html
@@ -123,7 +120,20 @@ http://pubint.ic.llnwd.net/stream/pubint_mbpc
 #EXTINF:0,[Music] WFMU Main Stream [aac|128k|stereo] 
 http://stream0.wfmu.org/freeform-high.aac
 
-# --- End 24 Hour Live Streaming ---
 
-#EXTINF:0,Podcast
+# --- Podcasts ---
+
+#EXTINF:0,[Podcast] NPR Up First
 https://feeds.npr.org/510318/podcast.xml
+
+#EXTINF:0,[Podcast] To THe Best Of Our Knowledge
+https://feeds.ttbook.org/ttbook
+
+#EXTINF:0,[Podcast] Wait Wait Don't Tell Me
+https://feeds.npr.org/344098539/podcast.xml
+
+#EXTINF:0,[Podcast] Reveal
+http://feeds.revealradio.org/revealpodcast
+
+#EXTINF:0,[Podcast] Live Wire
+https://feed.livewireradio.org/
