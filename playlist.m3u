@@ -20,11 +20,11 @@ http://video.news.sky.com/snr/news/snrnews.mp3
 # These are news/talk and public radio streams active 24/7
 #EXTINF:0,--- 24 Hour Live Streams ---
 
-#EXTINF:0,[NPR] WLRN 91.3 (Miami - Florida) [aac|64k|stereo]
+#EXTINF:0,[NPR] WLRN 91.3 (Miami-FL-US) [aac|64k|stereo]
 # Old and broken http://stream.wlrn.mobi/WLRNFMAAC64
 https://prod-3-80-94-6.amperwave.net/wlrnpublicmedia-wlrnfmaac-imc1
 
-#EXTINF:0,[NPR] KUAF 91.3 (Fayetville - Arkansas) [mpg|96k|stereo] 
+#EXTINF:0,[NPR] KUAF 91.3 (Fayetville-AR-US) [mpg|96k|stereo] 
 http://war.streamguys1.com:7030/kuaf1.m3u
 
 #EXTINF:0,[NPR] 24 Hour Program Stream
