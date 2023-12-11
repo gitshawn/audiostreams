@@ -154,7 +154,7 @@ https://feeds.megaphone.fm/VMP7924981569
 https://feeds.simplecast.com/dHoohVNH
 
 #EXTINF:0,[Podcast] Thought Spiral
-https://feeds.libsyn.com/98997/rss
+https://feeds.libsyn.com/98997/rss?maxCount=1
 
 #EXTINF:0,[Podcast] Code Switch
-https://feeds.npr.org/510312/podcast.xml
+https://feeds.npr.org/510312/podcast.xml?maxCount=1
