@@ -8,12 +8,14 @@
 #EXTINF:0,--- Hourly News Updates ---
 #vlc://pause:0
 
-#EXTINF:0,[Hourly] NPR Hourly News Summary (DC) [192|Stereo|npr.org]
+#EXTINF:0,[Hourly] NPR Hourly News Summary (Washington DC) [192|Stereo|npr.org]
 http://public.npr.org/anon.npr-mp3/npr/news/newscast.mp3
 
 #EXTINF:0,[Hourly] SKY NEWS Hourly News Brief (London) [128|Mono|sky.com]
 http://video.news.sky.com/snr/news/snrnews.mp3
 
+#EXTINF:0,[Hourly] ABC News Radio Hourly Update [128|Mono|abcaudio.com]
+https://dcs.megaphone.fm/ESP7536701051.mp3
 
 # --- 24 Hour Live Streams ---
 
