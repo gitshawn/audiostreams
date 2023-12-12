@@ -47,7 +47,7 @@ http://ett-ts02.ett.wsu.edu:8000/NWPRCLASSICAL
 http://ett-ts02.ett.wsu.edu:8000/NWPRKJEM
 
 # Voice of America - http://www.voanews.com/audio/tube/60.html
-#EXTINF:0,VOA Live Voice of America Public Radio (U.S.A) [akamaistream.net]
+#EXTINF:0,VOA1 Live Voice of America Public Radio (US) [akamaistream.net]
 http://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28
 
 #EXTINF:0,CNN CNNI Simulcast (Atlanta GA) [64|Mono|streamguys1.com]
@@ -62,25 +62,12 @@ http://23.22.214.193/foxnewsradio-foxnewsaac-ibc2?session-id=79135571&source=Tun
 #EXTINF:0,CBS2 880AM (New York US) [Stereo AAC|streamtheworld.com]
 http://5883.live.streamtheworld.com/WCBSAMAAC?streamtheworld_user=1&SRC=CBS&DIST=CBS&TGT=CBSLocalWebPlayer
 
-# http://www.bbc.com/news/world-17434308
-#EXTINF:0,BBC World Service Online (UK) [48|Stereo|llnwd.net]
-http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
-# http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk_backup
+# https://en.everybodywiki.com/List_of_BBC_radio_stream_URLs
+#EXTINF:0,[BBC] World Service Online (UK) [96|Stereo AACplus]
+http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
 
-#EXTINF:0,BBC Radio 5 Live [128|Stereo|bbc.co.uk]
-http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/http-icy-mp3-a-stream/proto/http/vpid/bbc_radio_five_live
-
-#EXTINF:0,BBC Radio 4 FM (DAB) [128|Stereo|llnwd.net]
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p?s=1454545804&e=1454560204&h=7efd244b5682d24bf2303c6715daa4ab
-
-#EXTINF:0,BBC Radio 4 LW (LW) [128|Stereo|bbc.co.uk]
-http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/http-icy-mp3-a-stream/proto/http/vpid/bbc_radio_fourlw
-
-#EXTINF:0,BBC Radio 4 Extra [128|Stereo|llnwd.net]
-http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_q?s=1454546062&e=1454560462&h=f8823508dd6f1f5061066e16c5e56b8d
-
-#EXTINF:0,BBC Radio 3 [Stereo AAC|bbci.co.uk]
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/low/ak/bbc_radio_three.m3u8
+#EXTINF:0,[BBC] Radio 1 Relax [96|Stereo AACplus]
+http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio%3d96000.norewind.m3u8
 
 #EXTINF:0,LBC News (LBC1152MP3Low) [48|Mono|musicradio.com]
 http://media-the.musicradio.com:80/LBC1152MP3Low
