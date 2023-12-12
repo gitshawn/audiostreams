@@ -14,8 +14,8 @@ http://public.npr.org/anon.npr-mp3/npr/news/newscast.mp3
 #EXTINF:0,[Hourly] SKY NEWS Hourly News Brief (London) [128|Mono|sky.com]
 http://video.news.sky.com/snr/news/snrnews.mp3
 
-#EXTINF:0,[Hourly] ABC News Radio Hourly Update [128|Mono|abcaudio.com]
-https://dcs.megaphone.fm/ESP7536701051.mp3
+#EXTINF:0,[Hourly] ABC News Radio Hourly Update (NYC) [256|Stereo|abcaudio.com]
+http://feeds.castfire.com/itunes:jjqev/1/abc-news-radio/abcit/abcit/audio:96.mp3/
 
 # --- 24 Hour Live Streams ---
 
