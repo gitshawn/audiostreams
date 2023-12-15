@@ -47,13 +47,13 @@ http://ett-ts02.ett.wsu.edu:8000/NWPRCLASSICAL
 http://ett-ts02.ett.wsu.edu:8000/NWPRKJEM
 
 # Voice of America - http://www.voanews.com/audio/tube/60.html
-#EXTINF:0,VOA1 Live Voice of America Public Radio (US) [akamaistream.net]
+#EXTINF:0,[VOA1] Voice of America Public Radio (US) [akamaistream.net]
 http://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28
 
-#EXTINF:0,CNN CNNI Simulcast (Atlanta GA) [64|Mono|streamguys1.com]
+#EXTINF:0,[CNN] CNNI Simulcast (Atlanta GA) [64|Mono|streamguys1.com]
 http://tunein.streamguys1.com/cnn
 
-#EXTINF:0,CNN Radio USA Live Online [64|Stereo|surfernetwork.com]
+#EXTINF:0,[CNN] Radio USA Live Online [64|Stereo|surfernetwork.com]
 http://crystalout.surfernetwork.com:8001/KFNX_MP3
 
 #EXTINF:0,FOX News Talk (US) [Stereo AAC|amazonaws.com]
