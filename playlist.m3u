@@ -73,11 +73,11 @@ http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one_relax/bbc_
 #EXTINF:0,LBC News (LBC1152MP3Low) [48|Mono|musicradio.com]
 http://media-the.musicradio.com:80/LBC1152MP3Low
 
-#EXTINF:0,KJZZ 128 kbps riosal_kjzz [128|Stereo|llnw.net]
-http://sc1.iad.llnw.net:80/stream/riosal_kjzz
+# #EXTINF:0,KJZZ 128 kbps riosal_kjzz [128|Stereo|llnw.net]
+# http://sc1.iad.llnw.net:80/stream/riosal_kjzz
 
-#EXTINF:0,Sputnik_Eng voiceeng [128|Stereo|rai.ru]
-http://audio2.video.ria.ru:80/voiceeng
+# #EXTINF:0,Sputnik_Eng voiceeng [128|Stereo|rai.ru]
+# http://audio2.video.ria.ru:80/voiceeng
 
 # http://kunm.org/#stream/0
 #EXTINF:0,KUNM (89.9 FM) (University of New Mexico) (Albuquerque NM) [128|Stereo|llnwd.net]
