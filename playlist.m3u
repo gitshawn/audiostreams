@@ -22,9 +22,10 @@ http://feeds.castfire.com/itunes:jjqev/1/abc-news-radio/abcit/abcit/audio:96.mp3
 # These are news/talk and public radio streams active 24/7
 #EXTINF:0,--- 24 Hour Live Streams ---
 
-# #EXTINF:0,[NPR] WLRN 91.3 (Miami-FL-US) [aac|64k|stereo]
+#EXTINF:0,[NPR] WLRN 91.3 (Miami-FL-US) [aac|64k|stereo]
 # Old and broken http://stream.wlrn.mobi/WLRNFMAAC64
 # New and broken https://live.amperwave.net/direct/wlrnpublicmedia-wlrnfmaac-imc1
+https://live.amperwave.net/playlist/wlrnpublicmedia-wlrnfmaac-imc1.pls
 
 #EXTINF:0,[NPR] KUAF 91.3 (Fayetville-AR-US) [mpg|96k|stereo] 
 http://war.streamguys1.com:7030/kuaf1.m3u
