@@ -8,10 +8,10 @@
 #EXTINF:0,--- Hourly News Updates ---
 #vlc://pause:0
 
-#EXTINF:0,[Hourly] NPR Hourly News Summary (Washington DC) [mpg|192k|Stereo]
+#EXTINF:0,[Hourly] NPR Hourly News Summary (Washington DC) [mpg|128k|Stereo]
 http://public.npr.org/anon.npr-mp3/npr/news/newscast.mp3
 
-#EXTINF:0,[Hourly] CBC Hourly News Summary (Toronto) [mpg|192k|Stereo]
+#EXTINF:0,[Hourly] CBC Hourly News Summary (Toronto) [mpg|128k|Stereo]
 http://podcast.cbc.ca/mp3/hourlynews.mp3
 
 #EXTINF:0,[Hourly] Feature Story News Hourly (Washington DC) [mpg|192k|Mono]
@@ -20,7 +20,7 @@ http://www.fsnradionews.com/FSNNews/FSNWorldNews.mp3
 #EXTINF:0,[Hourly] SKY NEWS Hourly News Brief (London) [mpg|128k|Mono]
 http://video.news.sky.com/snr/news/snrnews.mp3
 
-#EXTINF:0,[Hourly] ABC News Radio Hourly Update (NYC) [mpg|256|Stereo]
+#EXTINF:0,[Hourly] ABC News Radio Hourly Update (NYC) [mpg|256k|Stereo]
 http://feeds.castfire.com/itunes:jjqev/1/abc-news-radio/abcit/abcit/audio:96.mp3/
 
 # --- 24 Hour Live Streams ---
