@@ -1,6 +1,7 @@
 #EXTM3U
 
 # My Streaming Radio Playlist
+# Last updated and tested working 2023-12-26
 
 # --- Hourly News Updates ---
 
@@ -73,9 +74,6 @@ http://5883.live.streamtheworld.com/WCBSAMAAC?streamtheworld_user=1&SRC=CBS&DIST
 #EXTINF:0,[BBC] World Service Online (UK) [96|Stereo AACplus]
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
 
-#EXTINF:0,[BBC] Radio 1 Relax [96|Stereo AACplus]
-http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio%3d96000.norewind.m3u8
-
 #EXTINF:0,LBC News (LBC1152MP3Low) [48|Mono|musicradio.com]
 http://media-the.musicradio.com:80/LBC1152MP3Low
 
@@ -102,20 +100,25 @@ http://audio.wbhm.org:8000/live.mp3
 http://streams.kqed.org/kqedradio
 
 # http://wglt.org/#stream/0 
-#EXTINF:0,WGLT News & Ideas / Blues & Jazz (Illinois State University) (Preoria IL-US) [ilstu.edu]
-http://wgltradio.ilstu.edu:8000/wgltmain.mp3
+# #EXTINF:0,WGLT News & Ideas / Blues & Jazz (Illinois State University) (Preoria IL-US) [ilstu.edu]
+# http://wgltradio.ilstu.edu:8000/wgltmain.mp3
 
 # http://kmst.org/#stream/0
-#EXTINF:0,KMST Mid-Missouri Public Radio (Missouri U of Science & Technology) (Rolla MO-US) [mst.edu]
-http://kmst-live.mst.edu/kmst.mp3
+# #EXTINF:0,KMST Mid-Missouri Public Radio (Missouri U of Science & Technology) (Rolla MO-US) [mst.edu]
+# http://kmst-live.mst.edu/kmst.mp3
 
 # http://www.mpbn.net/#stream/0
-#EXTINF:0,[NPR] WMEH MPBN Maine Public Broadcasting Radio Stream (ME-US) [llnwd.net]
-http://pubint.ic.llnwd.net/stream/pubint_mbpc
+# #EXTINF:0,[NPR] WMEH MPBN Maine Public Broadcasting Radio Stream (ME-US) [llnwd.net]
+# http://pubint.ic.llnwd.net/stream/pubint_mbpc
 
 #EXTINF:0,[Music] WFMU Main Stream [aac|128k|stereo] 
 http://stream0.wfmu.org/freeform-high.aac
 
+#EXTINF:0,[Music] BBC Radio 1 Relax [96|Stereo AACplus]
+http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio%3d96000.norewind.m3u8
+
+#EXTINF:0,[Music] Jazz24 (Seattle, WA) [aac|64k|stereo]
+https://live.amperwave.net/playlist/ppm-jazz24mp3-ibc1.pls
 
 # --- Podcasts ---
 
