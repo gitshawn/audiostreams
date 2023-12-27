@@ -111,12 +111,17 @@ https://jazzfm91.streamb.live/SB00009
 #EXTINF:0,[Music-Jazz] tsfjazz.com (Paris France) [mpg|128k|stereo]
 https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
 
-#EXTINF:0,[NWPR] Classical Northwest Public Radio [96|Stereo|wsu.edu]
+#EXTINF:0,[Music-Classical] Classical Northwest Public Radio [96|Stereo|wsu.edu]
 http://ett-ts02.ett.wsu.edu:8000/NWPRCLASSICAL
 
-#EXTINF:0,[Music-Jazz] KJEM 89.9 NWPB Jazz (Spokane WA) [mpg|128k|Stereo]
+#EXTINF:0,[Music-Jazz] KJEM 89.9 (Spokane WA) [mpg|128k|Stereo]
 http://ett-ts02.ett.wsu.edu:8000/NWPRKJEM
 
+#EXTINF:0,[Music-ChillOut] Antenne Bayern Chill Out (Bavaria Germany) [mpg|128k|Stereo]
+https://s3-webradio.antenne.de/chillout/stream/mp3
+
+#EXTINF:0,[Music-Relax] Antenne Bayern Relax (Bavaria Germany) [mpg|128k|Stereo]
+https://s1-webradio.antenne.de/relax/stream/mp3
 
 # --- Podcasts ---
 
