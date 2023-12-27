@@ -62,17 +62,17 @@ http://media-the.musicradio.com:80/LBC1152MP3Low
 # #EXTINF:0,Sputnik_Eng voiceeng [128|Stereo|rai.ru]
 # http://audio2.video.ria.ru:80/voiceeng
 
-# http://kunm.org/#stream/0
-#EXTINF:0,KUNM (89.9 FM) (University of New Mexico) (Albuquerque NM) [128|Stereo|llnwd.net]
-http://pubint.ic.llnwd.net/stream/pubint_kunm
+# # http://kunm.org/#stream/0
+# #EXTINF:0,KUNM (89.9 FM) (University of New Mexico) (Albuquerque NM) [128|Stereo|llnwd.net]
+# http://pubint.ic.llnwd.net/stream/pubint_kunm
 
-# KANW - New Mexico Public Radio 89.1 FM http://www.kanw.com/
-#EXTINF:0,[NPR] KANW 89.1 FM New Mexico Public Radio (Albuquerque NM) [llnwd.net]
-http://pubint.ic.llnwd.net/stream/pubint_kanw
+# # KANW - New Mexico Public Radio 89.1 FM http://www.kanw.com/
+# #EXTINF:0,[NPR] KANW 89.1 FM New Mexico Public Radio (Albuquerque NM) [llnwd.net]
+# http://pubint.ic.llnwd.net/stream/pubint_kanw
 
-# WBHM (90.3 FM), APM, NPR, PRI, University of Alabama, http://www.wbhm.org/, https://www.wbhm.org/listen/
-#EXTINF:0,[NPR] WBHM (90.3 FM) University of Alabama (Birmingham AL) [96|Stereo|wbhm.org]
-http://audio.wbhm.org:8000/live.mp3
+# # WBHM (90.3 FM), APM, NPR, PRI, University of Alabama, http://www.wbhm.org/, https://www.wbhm.org/listen/
+# #EXTINF:0,[NPR] WBHM (90.3 FM) University of Alabama (Birmingham AL) [96|Stereo|wbhm.org]
+# http://audio.wbhm.org:8000/live.mp3
 
 # KQED belongs to the NPR family and offers news from California and the world. http://www.kqed.org/radio/listen/
 #EXTINF:0,[NPR] KQED Public Radio (San Francisco CA) [kqed.org]
