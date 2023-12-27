@@ -111,6 +111,13 @@ https://wbgo.streamguys1.com/wbgo128
 #EXTINF:0,[Music] KCSM 91.1 (San Mateo CA) [mpg|96k|stereo]
 https://ice7.securenetsystems.net/KCSM2
 
+#EXTINF:0,[Music] JAZZ.FM91 (Toronto Canada) [aac|128k|stereo]
+https://jazzfm91.streamb.live/SB00009
+
+#EXTINF:0,[Music] tsfjazz.com (Paris France) [mpg|128k|stereo]
+https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
+
+
 # --- Podcasts ---
 
 #EXTINF:0,[Podcast] NPR Up First
