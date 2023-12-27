@@ -27,17 +27,11 @@ http://war.streamguys1.com:7030/kuaf1.m3u
 #EXTINF:0,[NPR] 24 Hour Program Stream
 https://npr-ice.streamguys1.com/live.mp3
 
-#EXTINF:0,Al Jazeera English
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/160audio.m3u8
+# #EXTINF:0,Al Jazeera English
+# http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/160audio.m3u8
 
 #EXTINF:0,[NWPR] News Northwest Public Radio [96|Stereo|wsu.edu]
 http://ett-ts02.ett.wsu.edu:8000/NWPRNEWS
-
-#EXTINF:0,[NWPR] Classical Northwest Public Radio [96|Stereo|wsu.edu]
-http://ett-ts02.ett.wsu.edu:8000/NWPRCLASSICAL
-
-#EXTINF:0,[NWPR] KJEM Jazz Northwest Public Radio [80|Stereo|wsu.edu]
-http://ett-ts02.ett.wsu.edu:8000/NWPRKJEM
 
 # Voice of America - http://www.voanews.com/audio/tube/60.html
 #EXTINF:0,[VOA1] Voice of America Public Radio (US) [akamaistream.net]
@@ -96,26 +90,32 @@ http://streams.kqed.org/kqedradio
 # #EXTINF:0,[NPR] WMEH MPBN Maine Public Broadcasting Radio Stream (ME-US) [llnwd.net]
 # http://pubint.ic.llnwd.net/stream/pubint_mbpc
 
-#EXTINF:0,[Music] WFMU Main Stream [aac|128k|stereo] 
+#EXTINF:0,[Music-Talk-Eclectic] WFMU Main Stream [aac|128k|stereo] 
 http://stream0.wfmu.org/freeform-high.aac
 
-#EXTINF:0,[Music] BBC Radio 1 Relax [AACplus|96k|Stereo]
+#EXTINF:0,[Music-Chill] BBC Radio 1 Relax [AACplus|96k|Stereo]
 http://as-hls-ww.live.cf.md.bbci.co.uk/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio%3d96000.norewind.m3u8
 
-#EXTINF:0,[Music] Jazz24 (Seattle WA) [mpg|128k|stereo]
+#EXTINF:0,[Music-Jazz] Jazz24 (Seattle WA) [mpg|128k|stereo]
 https://live.amperwave.net/playlist/ppm-jazz24mp3-ibc1.pls
 
-#EXTINF:0,[Music] WBGO 88.3 (Newark NJ) [mpg|128k|stereo]
+#EXTINF:0,[Music-Jazz] WBGO 88.3 (Newark NJ) [mpg|128k|stereo]
 https://wbgo.streamguys1.com/wbgo128
 
-#EXTINF:0,[Music] KCSM 91.1 (San Mateo CA) [mpg|96k|stereo]
+#EXTINF:0,[Music-Jazz] KCSM 91.1 (San Mateo CA) [mpg|96k|stereo]
 https://ice7.securenetsystems.net/KCSM2
 
-#EXTINF:0,[Music] JAZZ.FM91 (Toronto Canada) [aac|128k|stereo]
+#EXTINF:0,[Music-Jazz] JAZZ.FM91 (Toronto Canada) [aac|128k|stereo]
 https://jazzfm91.streamb.live/SB00009
 
-#EXTINF:0,[Music] tsfjazz.com (Paris France) [mpg|128k|stereo]
+#EXTINF:0,[Music-Jazz] tsfjazz.com (Paris France) [mpg|128k|stereo]
 https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
+
+#EXTINF:0,[NWPR] Classical Northwest Public Radio [96|Stereo|wsu.edu]
+http://ett-ts02.ett.wsu.edu:8000/NWPRCLASSICAL
+
+#EXTINF:0,[Music-Jazz] KJEM 89.9 NWPB Jazz (Spokane WA) [mpg|128k|Stereo]
+http://ett-ts02.ett.wsu.edu:8000/NWPRKJEM
 
 
 # --- Podcasts ---
