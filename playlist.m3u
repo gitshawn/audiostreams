@@ -24,6 +24,9 @@ https://live.amperwave.net/playlist/wlrnpublicmedia-wlrnfmaac-imc1.pls
 #EXTINF:0,[NPR] KUAF 91.3 (Fayetville-AR-US) [mpg|96k|stereo] 
 http://war.streamguys1.com:7030/kuaf1.m3u
 
+#EXTINF:0,[NPR] WJFF 90.5 (Catskills-NY-US) [mpg|128k|stereo]
+http://www.pacificaservice.org:8000/wjff_128.m3u
+
 #EXTINF:0,[NPR] 24 Hour Program Stream
 https://npr-ice.streamguys1.com/live.mp3
 
