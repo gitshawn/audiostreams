@@ -1,7 +1,7 @@
 #EXTM3U
 
 # My Streaming Radio Playlist
-# Last updated and tested working 2023-12-26
+# Last updated and tested working 2024-03-23
 
 #EXTINF:0,[Hourly] NPR Hourly News Summary (Washington DC) [mpg|128k|Stereo]
 http://public.npr.org/anon.npr-mp3/npr/news/newscast.mp3
@@ -24,8 +24,8 @@ https://live.amperwave.net/playlist/wlrnpublicmedia-wlrnfmaac-imc1.pls
 #EXTINF:0,[NPR] KUAF 91.3 (Fayetville-AR-US) [mpg|96k|stereo] 
 http://war.streamguys1.com:7030/kuaf1.m3u
 
-#EXTINF:0,[NPR] WJFF 90.5 (Catskills-NY-US) [mpg|128k|stereo]
-http://www.pacificaservice.org:8000/wjff_128.m3u
+#EXTINF:0,[NPR] WEMU 89.1 (Ypsilanti-MI-US) [mpg|64k|stereo]
+http://playerservices.streamtheworld.com/pls/WEMUFM.pls
 
 #EXTINF:0,[NPR] 24 Hour Program Stream
 https://npr-ice.streamguys1.com/live.mp3
