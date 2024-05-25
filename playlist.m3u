@@ -24,6 +24,9 @@ https://live.amperwave.net/playlist/wlrnpublicmedia-wlrnfmaac-imc1.pls
 #EXTINF:0,[NPR] KUAF 91.3 (Fayetville-AR-US) [mpg|96k|stereo] 
 http://war.streamguys1.com:7030/kuaf1.m3u
 
+#EXTINF:0,[NPR] WCAI (Cape Cod-MA-US) [aac|256k|stereo] 
+https://streams.audio.wgbh.org/wcai-256aac
+
 #EXTINF:0,[NPR] WEMU 89.1 (Ypsilanti-MI-US) [mpg|64k|stereo]
 http://playerservices.streamtheworld.com/pls/WEMUFM.pls
 
