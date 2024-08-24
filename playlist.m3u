@@ -30,6 +30,9 @@ https://streams.audio.wgbh.org/wcai-256aac
 #EXTINF:0,[NPR] WEMU 89.1 (Ypsilanti-MI-US) [mpg|64k|stereo]
 http://playerservices.streamtheworld.com/pls/WEMUFM.pls
 
+#EXTINF:0,[NPR] KCRW 89.9 (Los Angeles-CA-US) [aac|256k|stereo]
+https://streams.kcrw.com/kcrw_mp3
+
 #EXTINF:0,[NPR] 24 Hour Program Stream
 https://npr-ice.streamguys1.com/live.mp3
 
